@@ -25,8 +25,7 @@ and Installer nasiya, im planning sana to build a 32bit but mostly devices na wi
 ![setup Screenshot](image.png)
 
 eto yung after installing may MENU siya for GUIDE CONTROLS KEYBOARD also a TIPS tapos may START NOW
-para papasok na siya sa MAIN UI of Scoreboard, also sa loob neto after installing may dalawang exe file lalabas
-sa desktop may PITIKNICHUY.exe at PITIKNICHUY CleanBG.exe so may kasamang GRAY COLORED BG ONLY SIYA
+para papasok na siya sa MAIN UI of Scoreboard
 
 ![setup Screenshot](e201b95b-95cc-425a-85e4-7fb593220fc0.jpg)
 
