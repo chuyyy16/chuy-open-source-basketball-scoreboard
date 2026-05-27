@@ -18,3 +18,7 @@ para papasok na siya sa MAIN UI of Scoreboard, also sa loob neto after installin
 sa desktop may PITIKNICHUY.exe at PITIKNICHUY CleanBG.exe so may kasamang GRAY COLORED BG ONLY SIYA
 
 ![setup Screenshot](e201b95b-95cc-425a-85e4-7fb593220fc0.jpg)
+
+![setup Screenshot](4d4c31a8-559e-4fb4-9b0e-0b70bbed996d.jpg)
+
+![setup Screenshot](31512d3c-bb17-4940-a4e0-03cf2635c2be.jpg)
