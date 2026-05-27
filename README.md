@@ -2,7 +2,9 @@
 standard/simplied Basketball Scoreboard
 
 Version v2.0 EXE/Installer
+
 DOWNLOAD LINK / IF NOT WORKING GO TO Releases tab
+
 https://github.com/chuyyy16/chuy-open-source-basketball-scoreboard/releases/download/EXE/Setup64x_ChuyBasketball.exe
 
 This Release is made and coded on Python & Pygame Engine so much more lightweight to run sa mga older laptops, 
